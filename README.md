@@ -1,5 +1,5 @@
 
-## Notes Application using Redux
+# Notes Application using Redux
 
 ### Demo
 

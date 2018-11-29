@@ -1,3 +1,10 @@
+
+## Notes Application using Redux
+
+You can check out the project at https://piyushbhangale.github.io/CRUD_with_React/
+
+----------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

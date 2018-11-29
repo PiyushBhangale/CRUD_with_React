@@ -7,7 +7,7 @@ You can check out the project at https://piyushbhangale.github.io/CRUD_with_Reac
 
 ### Description
 
-In this application the basic `CRUD OPERATIONS` are performed on the string using the state management library redux.
+In this application the basic `CRUD OPERATIONS` are performed using the state management library redux.
  
 ----------------------------
 

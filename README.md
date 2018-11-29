@@ -5,9 +5,10 @@
 
 You can check out the project at https://piyushbhangale.github.io/CRUD_with_React/
 
+### Description
 
-
-
+In this application the basic `CRUD OPERATIONS` are performed on the string using the state management library redux.
+ 
 ----------------------------
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
